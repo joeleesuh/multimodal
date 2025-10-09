@@ -187,7 +187,7 @@ def record_audio(self, filename="temp_recording.wav"):
 **Phase 3: Agent Processing (7-32 seconds)**
 
 11. **Research Agent** activates:
-    - Searches "AI ethics public sector hiring" (Serper API)
+    - Searches "AI in Education" (Serper API)
     - Retrieves 5 source documents
     - Identifies themes: bias, transparency, accountability
     - Extracts case studies: NYC (2021), EU guidelines (2023)
