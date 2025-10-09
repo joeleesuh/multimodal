@@ -37,7 +37,7 @@ A voice interface layer that adds:
 
 **Specifications**:
 - Duration: 3-5 minutes
-- Platform: YouTube (unlisted)
+- Platform: YouTube (unlisted) **Demo Video**: https://youtube.com/shorts/lvT6JVmqAOw?feature=share 
 - Content: Shows complete workflow from voice input to TTS output
 - Demonstrates: Voice transcription, agent processing, article generation
 
