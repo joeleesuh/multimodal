@@ -2,9 +2,9 @@
 
 **Author**: Joe Suh  
 **Date**: October 2025  
-**Demo Video**: https://youtube.com/shorts/lvT6JVmqAOw?feature=share 
 **Project**: Extension of joeleesuh/aiagent with voice capabilities
 
+**Demo Video**: https://youtube.com/shorts/lvT6JVmqAOw?feature=share 
 
 ## 1. Implementation Overview
 
