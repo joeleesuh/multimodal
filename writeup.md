@@ -1,6 +1,6 @@
 # Voice-Enabled AI Agent: Technical Write-up
 
-**Author**: Joe suh  
+**Author**: Joe Suh  
 **Date**: October 2025  
 **Project**: Extension of joeleesuh/aiagent with voice capabilities
 
