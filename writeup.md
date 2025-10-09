@@ -3,7 +3,7 @@
 **Author**: Joe Suh  
 **Date**: October 2025  
 **Project**: Extension of joeleesuh/aiagent with voice capabilities
-
+**Demo Video**: https://mit.zoom.us/rec/share/D-seHjkKBJoSJUKvqprtLrETpYijJMLWML_tEYfpP8JwgJHCGklGzHinleDd7JY.S-Xl1NJqcuTUtWqV?startTime=1759993848000 
 ---
 
 ## 1. Implementation Overview
