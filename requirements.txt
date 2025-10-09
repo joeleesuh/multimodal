@@ -1,15 +1,15 @@
-# Core CrewAI dependencies
-crewai==0.28.8
-crewai-tools==0.1.6
-langchain==0.1.0
-langchain-openai==0.0.2
+# Core CrewAI dependencies (updated for compatibility)
+crewai>=0.193.0
+crewai-tools>=0.1.6
+langchain>=0.1.0
+langchain-openai>=0.0.2
 
 # Voice capabilities
-openai-whisper==20231117
-kokoro-onnx==0.1.0
-pyaudio==0.2.14
-numpy==1.24.3
-scipy==1.11.4
+openai-whisper
+kokoro-onnx
+pyaudio
+numpy
+scipy
 
 # Utilities
-python-dotenv==1.0.0
+python-dotenv
