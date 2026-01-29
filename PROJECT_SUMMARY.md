@@ -1,4 +1,4 @@
-# Voice-Enabled AI Agent - Project Summary
+# Voice-Enabled AI Agent // Project Summary
 
 ## 📋 Project Overview
 
